@@ -1,4 +1,4 @@
-![Image of Tetrjs]https://github.com/stevenjing/tetrjs/blob/master/client/tetr.png
+![Image of Tetrjs](https://github.com/stevenjing/tetrjs/blob/master/client/tetr.png)
 
 # Tetr.js
 A tetris game simulation made using Angular, Node, MongoDB.
