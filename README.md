@@ -1,19 +1,19 @@
 ![Image of Tetrjs](https://github.com/stevenjing/tetrjs/blob/master/client/tetr.png)
 
 # Tetr.js
-A tetris game simulation made using Angular, Node, MongoDB.
+A Tetris game simulation made using Angular, Node, MongoDB.
 
 ## Requirements
 - Node
 - MongoDB
 
 ## Installing Dependencies
-folder: tetrjs
+Folder: tetrjs
 ```
 bower install
 ```
 
-folder: tetrjs/Backend
+Folder: tetrjs/Backend
 ```
 npm install
 npm start
